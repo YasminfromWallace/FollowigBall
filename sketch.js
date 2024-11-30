@@ -3,7 +3,7 @@ let x;
 let y;
 
 function setup() {
- createCanvas(1250, 700);
+ createCanvas(700, 1250);
  background(random(0, 150), (0, 150), (0, 150));
  
  
